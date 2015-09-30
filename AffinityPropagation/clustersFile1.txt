@@ -1,0 +1,21 @@
+2702
+2395784
+350610
+354811
+Done
+2702
+2395784
+350610
+354811
+
+Correctly Classified Instances         156               87.1508 %
+Incorrectly Classified Instances        23               12.8492 %
+Kappa statistic                          0.7404
+Mean absolute error                      0.1285
+Root mean squared error                  0.3585
+Relative absolute error                 26.374  %
+Root relative squared error             72.627  %
+Coverage of cases (0.95 level)          87.1508 %
+Mean rel. region size (0.95 level)      50      %
+Total Number of Instances              179     
+
